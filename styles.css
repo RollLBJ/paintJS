@@ -51,6 +51,7 @@ canvas{
   font-weight: 600;
 }
 
+.controls__color:active,
 .controls__btns button:active{
   transform: scale(0.98);
 }
